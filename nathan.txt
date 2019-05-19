@@ -1,0 +1,49 @@
+Get:1 file:/var/opt/amdgpu-pro-local ./ InRelease
+Ign:1 file:/var/opt/amdgpu-pro-local ./ InRelease
+Get:2 file:/var/opt/amdgpu-pro-local ./ Release [816 B]
+Get:2 file:/var/opt/amdgpu-pro-local ./ Release [816 B]
+Get:3 file:/var/opt/amdgpu-pro-local ./ Release.gpg
+Ign:3 file:/var/opt/amdgpu-pro-local ./ Release.gpg
+Hit:4 http://ie.archive.ubuntu.com/ubuntu bionic InRelease
+Get:5 http://security.ubuntu.com/ubuntu xenial-security InRelease [109 kB]
+Hit:6 http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu bionic InRelease
+Get:7 http://ie.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+Hit:8 http://ppa.launchpad.net/ryu0/aesthetics/ubuntu bionic InRelease
+Hit:9 http://archive.canonical.com/ubuntu bionic InRelease
+Get:10 http://ie.archive.ubuntu.com/ubuntu xenial-updates InRelease [109 kB]
+Hit:11 http://ppa.launchpad.net/ubuntuhandbook1/audacity/ubuntu bionic InRelease
+Get:12 http://ie.archive.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+Hit:13 http://ppa.launchpad.net/webupd8team/java/ubuntu bionic InRelease
+Ign:14 http://download.opensuse.org/repositories/home:/strycore/xUbuntu_18.04 ./ InRelease
+Hit:15 http://download.opensuse.org/repositories/home:/strycore/xUbuntu_18.04 ./ Release
+Get:16 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [617 kB]
+Get:17 http://security.ubuntu.com/ubuntu xenial-security/main Sources [145 kB]
+Get:18 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [516 kB]
+Get:19 http://security.ubuntu.com/ubuntu xenial-security/universe Sources [105 kB]
+Get:20 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main Translation-en [229 kB]
+Get:21 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [276 kB]
+Get:22 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 48x48 Icons [66.7 kB]
+Get:23 http://ie.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 64x64 Icons [123 kB]
+Get:24 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [924 kB]
+Get:26 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [936 kB]
+Get:27 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe Translation-en [274 kB]
+Get:28 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 DEP-11 Metadata [227 kB]
+Get:29 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 48x48 Icons [191 kB]
+Get:30 http://ie.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 64x64 Icons [400 kB]
+Get:31 http://ie.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 DEP-11 Metadata [2,464 B]
+Get:32 http://ie.archive.ubuntu.com/ubuntu xenial-updates/universe Sources [254 kB]
+Get:33 http://ie.archive.ubuntu.com/ubuntu xenial-updates/main Sources [335 kB]
+Get:34 http://ie.archive.ubuntu.com/ubuntu bionic-security/main amd64 Packages [349 kB]
+Get:35 http://ie.archive.ubuntu.com/ubuntu bionic-security/main i386 Packages [261 kB]
+Get:36 http://ie.archive.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [14.9 kB]
+Get:37 http://ie.archive.ubuntu.com/ubuntu bionic-security/main DEP-11 48x48 Icons [10.4 kB]
+Get:38 http://ie.archive.ubuntu.com/ubuntu bionic-security/main DEP-11 64x64 Icons [20.9 kB]
+Get:39 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe i386 Packages [240 kB]
+Get:40 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [244 kB]
+Get:41 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe Translation-en [140 kB]
+Get:42 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [35.7 kB]
+Get:43 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe DEP-11 48x48 Icons [16.4 kB]
+Get:44 http://ie.archive.ubuntu.com/ubuntu bionic-security/universe DEP-11 64x64 Icons [92.5 kB]
+Get:45 http://ie.archive.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2,464 B]
+Fetched 7,445 kB in 3s (2,482 kB/s)
+Reading package lists...
